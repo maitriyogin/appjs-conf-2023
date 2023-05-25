@@ -1,6 +1,7 @@
 ## App JS Conf 2023
 
-![Krakow Dragon](photos/IMG_4171.jpeg)
+![App js Conf](photos/IMG_4171.jpeg)
+![Krakow Dragon](photos/IMG_4152.jpeg)
 
 ### Wednesday
 
